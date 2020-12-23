@@ -1,0 +1,6 @@
+C is a general purpose, procedural computer programming language supporting structured programming, 
+and recursion.
+
+C was originally developed at Bell Labs by Dennis Ritchie.
+C has been standardized by the ANSI since 1989 and by the International Organization for Standardization(ISO). 
+As of September 2020, C is the most popular programming language.

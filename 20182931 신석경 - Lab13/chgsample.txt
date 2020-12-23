@@ -1,0 +1,16 @@
+/*
+ * SAMPLE.C
+ */
+#DEFINE _crt_secure_no_warnings
+#INCLUDE <STDIO.H>
+#INCLUDE <STDBOOL.H>
+
+INT MAIN(VOID)
+{
+	CHAR *FNAME = "SAMPLE.C"
+	PRINTF("%S ÆÄÀÏÀÇ ³»¿ë Ãâ·Â ¿¹Á¦ ÇÁ·Î±×·¥.\N",FNAME);
+
+	RETURN 0;
+}
+
+ÿ
